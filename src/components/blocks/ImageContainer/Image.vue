@@ -115,6 +115,11 @@ export default {
 }
 
 @media only screen and (max-width: 768px) {
+  .img-section {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
   .image_container {
     display: flex;
     flex-direction: column;

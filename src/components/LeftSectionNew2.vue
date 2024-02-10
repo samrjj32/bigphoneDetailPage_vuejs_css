@@ -144,7 +144,7 @@ export default {
     grid-template-columns: 2fr;
   }
 
-  .image {
+  .image1 {
     max-width: 250px;
     max-height: 250px;
   }

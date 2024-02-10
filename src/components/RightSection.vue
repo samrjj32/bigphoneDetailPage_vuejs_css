@@ -101,6 +101,12 @@ import Counter from "./blocks/ProductCounter.vue";
 }
 /* Responsive Styles */
 @media (max-width: 768px) {
+  h2,
+  h1,
+  span,
+  p {
+    font-size: 14px;
+  }
   .right-section {
     width: 100%;
   }
