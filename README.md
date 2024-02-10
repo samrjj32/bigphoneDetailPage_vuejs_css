@@ -1,6 +1,8 @@
 # product detail page
 
-🔗 https://bigphonesdetailpagevue1.netlify.app/
+#### 🔗Sources
+
+- [Demo](https://bigphonesdetailpagevue1.netlify.app/)
 
 
 
