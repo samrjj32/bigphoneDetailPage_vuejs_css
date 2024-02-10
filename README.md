@@ -1,1 +1,1 @@
-link:https://bigphonesdetailpagevue1.netlify.app/
+🔗 https://bigphonesdetailpagevue1.netlify.app/
